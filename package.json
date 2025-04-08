@@ -1,0 +1,17 @@
+{
+  "name": "mcp-log-analyzer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.3.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.0"
+  }
+}

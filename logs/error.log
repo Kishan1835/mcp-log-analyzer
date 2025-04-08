@@ -1,0 +1,4 @@
+[2025-04-08 15:34:21] Error: Cannot read properties of undefined (reading 'length')
+    at App.js:21:15
+[2025-04-08 15:34:25] Error: Failed to fetch data from API
+    at DataService.ts:14:8
